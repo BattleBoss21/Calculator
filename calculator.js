@@ -22,3 +22,5 @@ function e( ) {
 			d("Error");
 		}
 }
+var store = 0;
+//Memory Functions
